@@ -1,0 +1,11 @@
+body{
+    font-family: 'Lucida Sans';
+}
+h1{
+    color: blue;
+}
+ul{
+    text-decoration: underline;
+    background-color: aqua;
+    list-style: lower-alpha;
+}
